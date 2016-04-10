@@ -1,0 +1,46 @@
+body {
+    font-family:    "Tines New Roman", Times, serif;
+}
+
+#header h1 {
+    font-size:      150%;
+}
+
+p.ex {
+    margin-top: 12px;
+    margin-bottom: 12px;
+    margin-right: 600px;
+    margin-left: 150px;
+}
+
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+
+#nav {
+    position: fixed;
+    line-height:30px;
+    height:1000px;
+    width:115px;
+    float:left;
+    padding:5px;
+}
+
+#footer {
+    color:black;
+    clear:both;
+    text-align:center;
+    padding:5px;
+}
+
+#aside {
+    position: fixed;
+    top: 90px;
+    Right: 220px;
+    width:350px;
+    float:right;
+    padding:10px;
+}

@@ -7,10 +7,7 @@ body {
 }
 
 p.ex {
-    margin-top: 12px;
-    margin-bottom: 12px;
-    margin-right: 600px;
-    margin-left: 150px;
+    margin:         12px 600px 12px 150px;
 }
 
 #header {

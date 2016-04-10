@@ -36,7 +36,7 @@ body {
 #aside {
     position:           fixed;
     top:                90px;
-    Right:              220px;
+    right:              220px;
     width:              350px;
     float:              right;
     padding:            10px;
